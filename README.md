@@ -1,6 +1,4 @@
-# Heyo, Wylited here.
-[wypage](https://page.wylited.me)
+# Heyo, wyli here.
+[website](https://web.wyli.tech)
 
-| That's a psuedonym,                                                                                                                                                                                                                 |  you probably don't know me.                                                                                                                                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![wylited gitHub stats](https://github-readme-stats.vercel.app/api?username=wylited&show_icons=true&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics%3A) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wylited&layout=compact&theme=github_dark&langs_count=6&exclude_repo=AIoT_CityUEE&hide_border=true&custom_title=Most%20Used%20Languages%3A) |
+That's a psuedonym, you probably don't know me.
