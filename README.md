@@ -1,4 +1,4 @@
-# heyo, I'm [wyli](https://web.wyli.tech)
+# hey, i'm [wyli](https://web.wyli.tech)
 
 That's a psuedonym, you probably don't know me.
 
