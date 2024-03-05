@@ -2,6 +2,11 @@
 
 That's a psuedonym, you probably don't know me.
 
-I'm a student developer who likes using an array of langauges, but prefers rust the most.
+What I enjoy: 
+- CTF's (especially reverse engineering and pwn)
+- Competitive programming (slowly getting better at it)
+- Research
+- Eletrical engineering (though I have no where near enough time lol)
+- Doom emacs (keeps myself organized)
 
-~~I daily drive void linux (no longer, switched back to arch)~~ and I like building purposeful tools.
+~~I daily drive void linux~~ (no longer, I switched back to arch)
