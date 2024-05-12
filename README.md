@@ -1,12 +1,9 @@
-# hey, i'm [wyli](https://web.wyli.tech)
+# hey, I'm [wyli](https://web.wyli.tech)
 
 That's a psuedonym, you probably don't know me.
 
-What I enjoy: 
+what:
+- follower of the doom emacs cult, (turned evil)
 - CTF's (especially reverse engineering and pwn)
-- Competitive programming (slowly getting better at it)
-- Research
-- Eletrical engineering (though I have nowhere near enough time lol)
-- Doom emacs (keeps myself organized)
-
-~~I daily drive void linux~~ (no longer, I switched back to arch)
+- Competitive programming (slowly getting better at it, codeforces:wylited)
+- Electrical engineering (i dont have time or money 😭) and systems engineering (?, i want to learn)
