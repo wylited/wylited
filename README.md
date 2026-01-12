@@ -1,12 +1,12 @@
-# hey, I'm [wyli](https://wylited.vercel.app)
+# hey, I'm [wyli](https://wyli.is-a.dev)
 
 That's a psuedonym, you probably don't know me.
 
 what:
-- computer engineer - i like building cool things
+- computer engineer - i like building to replace things I use.
 - rust addict
 - follower of the doom emacs cult, (turned evil)
-- CTF player - offsec (rev eng and pwn)
+- CTF player - competitive cybersecurity
   
 go checkout possibly cooler people
 [**octo ring**](https://octo-ring.com/)
