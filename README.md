@@ -7,6 +7,8 @@ what:
 - rust addict
 - follower of the doom emacs cult, (turned evil)
 - CTF player - competitive cybersecurity
+
+currently reading: Crafting Intepreters
   
 go checkout possibly cooler people
 [**octo ring**](https://octo-ring.com/)
